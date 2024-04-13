@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+        "queue.h": "c",
+        "cstdlib": "c",
+        "stdio.h": "c",
+        "random": "c",
+        "any": "c",
+        "complex": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "ctype.h": "c",
+        "types.h": "c",
+        "string": "c",
+        "format": "c",
+        "dlfcn.h": "c",
+        "ascii.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "lexical.h": "c",
+        "preprocessor.h": "c",
+        "global.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "make.h": "c",
+        "future": "c",
+        "system_error": "c",
+        "regex.h": "c",
+        "socket.h": "c",
+        "in.h": "c"
+    }
+}
